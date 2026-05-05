@@ -20,39 +20,15 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png"/>
     <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png"/>
     <link rel="shortcut icon" href="assets/ico/favicon.png"/>
+
     <link href="assets/css/project.css" rel="stylesheet"/>
     <link href="assets/css/hl7-be.css" rel="stylesheet"/>
     <link href="assets/css/federal-colors.css" rel="stylesheet"/>
+    <link href="ehealth.css" rel="stylesheet"/>
+
     <link rel="shortcut icon" href="assets/ico/favicon.png"/>
+
     <!-- header.template ends here -->
-    <style>
-            table.history-grid {
-                margin-bottom: 10px;
-                border: 1px black solid;
-                margin-right: auto;
-                border-collapse: collapse; /* Recommandé pour éviter les doubles bordures */
-            }
-
-            table.history-grid th {
-                border: 1px solid silver;
-                padding: 3px 7px 2px 7px;
-                font-size: 12px;
-                line-height: 1.4em;
-                font-family: verdana;
-                font-weight: bold;
-                vertical-align: top;
-            }
-
-            table.history-grid td {
-                border: 1px solid silver;
-                padding: 3px 7px 2px 7px;
-                font-size: 12px;
-                line-height: 1.4em;
-                font-family: verdana;
-                font-weight: normal;
-                vertical-align: top;
-            }
-        </style>
 </head>
 <!-- preamble.template starts here -->
 <body>
