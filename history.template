@@ -7,20 +7,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="http://www.hl7.org"/>
     <link href="fhir.css" rel="stylesheet"/>
-    <link href="dist-hist/css/bootstrap.css" rel="stylesheet"/>
-    <link href="assets-hist/css/bootstrap-fhir.css" rel="stylesheet"/>
-    <link href="assets-hist/css/project.css" rel="stylesheet"/>
-    <link href="assets-hist/css/pygments-manni.css" rel="stylesheet"/>
+    <link href="assets/css/bootstrap.css" rel="stylesheet"/>
+    <link href="assets/css/bootstrap-fhir.css" rel="stylesheet"/>
+    <link href="assets/css/project.css" rel="stylesheet"/>
+    <link href="assets/css/pygments-manni.css" rel="stylesheet"/>
     <link href="jquery-ui.css" rel="stylesheet"/>
     <script type="application/javascript" src="https://hl7.org/fhir/history-cm.js"> </script>
     <script type="application/javascript" src="https://hl7.org/fhir/history.js"> </script>
     <link href="history.css" rel="stylesheet"/>
     <!-- header.template starts here -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets-hist/ico/apple-touch-icon-144-precomposed.png"/>
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets-hist/ico/apple-touch-icon-114-precomposed.png"/>
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets-hist/ico/apple-touch-icon-72-precomposed.png"/>
-    <link rel="apple-touch-icon-precomposed" href="assets-hist/ico/apple-touch-icon-57-precomposed.png"/>
-    <link rel="shortcut icon" href="assets-hist/ico/favicon.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png"/>
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png"/>
+    <link rel="shortcut icon" href="assets/ico/favicon.png"/>
 
     <link href="assets/css/project.css" rel="stylesheet"/>
     <link href="assets/css/hl7-be.css" rel="stylesheet"/>
@@ -157,10 +157,10 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./assets-hist/js/jquery.js"> </script>     <!-- note keep space here, otherwise it will be transformed to empty tag -> fails -->
+    <script src="./assets/js/jquery.js"> </script>     <!-- note keep space here, otherwise it will be transformed to empty tag -> fails -->
     <script src="./dist-hist/js/bootstrap.min.js"> </script>
-    <script src="./assets-hist/js/respond.min.js"> </script>
-    <script src="./assets-hist/js/fhir.js"> </script>
+    <script src="./assets/js/respond.min.js"> </script>
+    <script src="./assets/js/fhir.js"> </script>
 
     <!-- Analytics Below
     ================================================== -->
